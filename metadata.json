@@ -1,0 +1,6 @@
+{
+  "name": "CampusMart E-Commerce Platform",
+  "description": "Comprehensive student and retail e-commerce platform featuring multi-category specifications, AR preview, interactive pincode verification, reviews, comparison, and complete order management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
