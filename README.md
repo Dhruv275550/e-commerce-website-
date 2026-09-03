@@ -2,6 +2,9 @@
   <h1>🛒 CampusMart - E-Commerce Website</h1>
   <p>A modern e-commerce platform built using React, JavaScript, Node.js and other web technologies.</p>
 </div>
+## 🌐 Live Demo
+
+[🚀 Visit CampusMart Website]( https://campusmart-e-commerce-fvnbzqnzp-tomarrahu96-7931.vercel.app)
 
 ## 📌 About the Project
 
